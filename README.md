@@ -1,7 +1,7 @@
 # Python-Projects
 Simple python projects for practice
 
-<b><h3>Ceaser cipher</h3></b><br>
+<b><h3>Ceaser cipher</h3></b>
 Created a ceaser cipher scrypt in python to encrypt messages that are not meant to be seen by some people.
 
 <b><h3>Hangman</h3></b>
